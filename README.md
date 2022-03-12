@@ -1,1 +1,1 @@
-# Agrivoltaic_model
+# Agrivoltaic Model
